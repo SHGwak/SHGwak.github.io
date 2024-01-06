@@ -1,3 +1,0 @@
-크기를 무시할 수 있는 두 공 $\mathrm{A}, \mathrm{B}$ 가 있다. 같은 시각에 $\mathrm{A}$ 는 $80 \mathrm{~m}$ 의 높이에 서 정지 상태에서 낙하시키고 $\mathrm{B}$ 는 $40 \mathrm{~m} / \mathrm{s}$ 의 속력으로 연직 위 방향으로 던져 올렸 다. (1) 두 공이 충돌하는데 걸린 시간과 (2) 두 공이 충돌하게 되는 높이를 구하여라.
-
-![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-023.jpg?height=461&width=363&top_left_y=514&top_left_x=717)

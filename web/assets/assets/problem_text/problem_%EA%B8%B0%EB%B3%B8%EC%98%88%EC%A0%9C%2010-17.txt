@@ -1,9 +1,0 @@
-지구 주위를 등속 원운동하는 질량 $8 m$ 인 위성 $\mathrm{A}$ 와 질량 $m$ 인 위성 $\mathrm{B}$ 가 있다.
-
-$\mathrm{A}$ 의 궤도반지름은 $4 r, \mathrm{~B}$ 의 궤도 반지름은 $r$ 이다.
-
-(1) 공전속력은 $\mathrm{A}$ 가 $\mathrm{B}$ 의 몇 배인가?
-
-(2) 공전주기는 $\mathrm{A}$ 가 $\mathrm{B}$ 의 몇 배인가?
-
-(3) 운동에너지는 $\mathrm{A}$ 가 $\mathrm{B}$ 의 몇 배인가?

@@ -1,3 +1,0 @@
-그림은 물이 담긴 3 개의 그릇이 있다. 깊이 $h$ 에서 압력이 큰 순서대로 나열 하라.
-
-![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-179.jpg?height=286&width=873&top_left_y=476&top_left_x=456)

@@ -1,3 +1,0 @@
-그림과 같이 $x y$ 평면의 원점에서 출발한 입자가 점선의 경로로 운동하다가 $(1 \mathrm{~m}, \sqrt{3} \mathrm{~m})$ 인 위치에 도착하였다. (1) 변위의 크기와 (2) 변위와 $x$ 축과 이루는 각도를 구하여라.
-
-![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-025.jpg?height=499&width=533&top_left_y=663&top_left_x=629)

@@ -1,4 +1,0 @@
-용수철 상수가 같은 4 개의 용수철 $\mathrm{A}, \mathrm{B}, \mathrm{C}, \mathrm{D}$ 가 있다. 그림과 같이 용수철 들을 연결하고 화살표 방향으로 힘을 가할 때 $\mathrm{A}$ 가 늘어난 길이는 $x$ 이다.
-![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-078.jpg?height=380&width=800&top_left_y=1332&top_left_x=478)
-
-(1) $\mathrm{B},(2) \mathrm{C}$, (3) $\mathrm{D}$ 가 늘어난 길이를 구하여라.

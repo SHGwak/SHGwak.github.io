@@ -1,3 +1,0 @@
-그림과 같이 용수철상수가 $100 \mathrm{~N} / \mathrm{m}$ 인 용수철에 매달려 있는 질량 $1 \mathrm{~kg}$ 인 물체를 $10 \mathrm{~cm}$ 만큼 늘렸다가 놓았다. (1) 이 물체의 운동에너지의 최댓값과 (2) 속력의 최댓값을 구하여라.
-
-![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-117.jpg?height=328&width=527&top_left_y=521&top_left_x=615)

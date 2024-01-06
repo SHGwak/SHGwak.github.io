@@ -1,5 +1,0 @@
-수평면 위에 질량 $2 m$ 인 상자 $\mathrm{A}$ 위에 질량 $m$ 인 물체 $\mathrm{B}$ 를 올려 놓았다. 그 리고 $\mathrm{A}$ 와 $\mathrm{B}$ 는 마찰이 없는 고정도르래를 통하여 연결되어 있다. $\mathrm{A}$ 와 수평면 사이와 $\mathrm{A}$ 와 $\mathrm{B}$ 사이의 정지마찰계수는 모두 $\mu$ 이고, 중력가속도는 $g$ 이다.
-
-![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-087.jpg?height=257&width=602&top_left_y=525&top_left_x=589)
-
-$\mathrm{B}$ 를 오른쪽으로 움직이게 하기 위한 $F$ 의 최솟값을 구하여라.

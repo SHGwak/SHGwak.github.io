@@ -1,3 +1,0 @@
-컵에 담겨 있는 물에 얼음이 떠 있다. 얼음이 모두 녹으면 수면은 올라가는 가, 내려가는가, 아니면 변화가 없겠는가? 단, 물의 증발효과는 무시한다.
-
-![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-193.jpg?height=320&width=277&top_left_y=462&top_left_x=746)

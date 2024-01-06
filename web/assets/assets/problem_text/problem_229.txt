@@ -1,3 +1,0 @@
-높이 $h$ 인 매끄러운 수평면 위에서 질량 $2 m$ 인 물체 $\mathrm{A}$ 가 등속도 운동을 하 고 있다. 수평면 끝에 놓인 질량 $m$ 인 물체 $\mathrm{B}$ 와 충돌한 후 합쳐져서 수평거리 $h$ 되는 지점에 떨어졌다. 충돌 전 물체 $\mathrm{A}$ 의 속도를 구하여라. 단, 중력가속도는 $g$ 이다.
-
-![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-147.jpg?height=403&width=855&top_left_y=523&top_left_x=451)

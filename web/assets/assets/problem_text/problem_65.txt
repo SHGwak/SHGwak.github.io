@@ -1,3 +1,0 @@
-수평면 상에서 돌을 비스듬히 던져 올렸을 때 운동 경로상의 $\mathrm{P}$ 점에 도달하는 시간이 2 초, $\mathrm{P}$ 점에서 수평면에 도달하는데 걸리는 시간이 4 초였다. $\mathrm{P}$ 점의 높이 $h$ 를 구하여라.
-
-![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-045.jpg?height=240&width=916&top_left_y=522&top_left_x=449)

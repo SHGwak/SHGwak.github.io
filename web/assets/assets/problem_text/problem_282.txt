@@ -1,5 +1,0 @@
-그림은 동일한 축에 반지름이 각각 $R, r$ 인 바퀴 $\mathrm{A}, \mathrm{B}$ 가 고정되어 있는 축 바퀴가 있다. 이 축바퀴의 줄에 크기가 $F$ 인 힘을 작용하였더니 질량 $2 \mathrm{~kg}$ 인 상자가 평형을 이루었다.
-
-![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-182.jpg?height=382&width=368&top_left_y=1529&top_left_x=700)
-
-$\frac{R}{r}=\frac{5}{2}$ 일 때, $F$ 는?

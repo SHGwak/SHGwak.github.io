@@ -1,9 +1,0 @@
-지면에 정지해 있던 질량 $4 \mathrm{~kg}$ 인 물체에 연직 위방향으로 크기가 변하는 외 부힘 $\vec{F}$ 를 계속 가하였더니 물체가 $5 \mathrm{~m}$ 의 높이를 올라간 후 멈추었다. 다음 표를 완 성하여라. 단, 공기의 저항은 무시한다.
-
-\begin{tabular}{|c|c|}
-\hline 외부힘 $\vec{F}$ 이 한 일 $W_{\mathrm{ext}}$ & \\
-\hline 운동에너지의 변화량 $\Delta K$ & \\
-\hline 퍼텐셜에너지의 변화량 $\Delta U$ & \\
-\hline 마찰력에 의하여 발생한 열 & \\
-\hline
-\end{tabular}

@@ -1,5 +1,0 @@
-그림과 같이 두 기둥 $\mathrm{A}, \mathrm{B}$ 위에 길이가 $L$ 이고 질량이 $m$ 인 균일한 막대가 놓여 있다. 두 기둥 사이의 거리는 $\frac{3}{5} L$ 이고, 중력가속도는 $g$ 이다.
-
-![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-170.jpg?height=353&width=805&top_left_y=568&top_left_x=516)
-
-(1) A와 (2) B가 막대를 떠 받치는 힘의 크기를 구하여라.

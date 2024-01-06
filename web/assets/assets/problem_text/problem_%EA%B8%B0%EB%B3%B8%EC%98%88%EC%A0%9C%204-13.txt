@@ -1,7 +1,0 @@
-마찰이 없는 수평면 위에 질량 $4 \mathrm{~kg}$ 인 매우 긴 판 $\mathrm{A}$ 를 놓은 후, 그 위에 질량 $2 \mathrm{~kg}$ 인 상자 B를 놓았다. 수평 방향으로 크기가 $24 \mathrm{~N}$ 인 힘을 계속 가하였더니 $\mathrm{A}$ 와 $\mathrm{B}$ 는 같은 가속도 $a$ 로 운동하였다.
-
-![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-076.jpg?height=166&width=650&top_left_y=590&top_left_x=568)
-
-(1) $a$ 를 구하여라.
-
-(2) $\mathrm{A}$ 가 $\mathrm{B}$ 에 가하는 마찰력의 크기를 구하여라.

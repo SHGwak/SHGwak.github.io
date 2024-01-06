@@ -1,3 +1,0 @@
-그림과 같이 길이 $2 \mathrm{~m}$, 질량 $10 \mathrm{~kg}$ 인 균일한 판자가 양쪽 끝의 2 개의 줄 $\mathrm{A}$, $\mathrm{B}$ 로 건물의 천장에 수평하게 매달려 있다. 발판 위에 질량 $10 \mathrm{~kg}$ 인 페인트 통이 놓 여 있고, $\mathrm{A}$ 에 작용하는 장력의 크기는 $75 \mathrm{~N}$ 이다. 페인트 통의 무게중심과 $\mathrm{B}$ 사이의 수평거리를 구하여라.
-
-![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-184.jpg?height=265&width=616&top_left_y=592&top_left_x=571)

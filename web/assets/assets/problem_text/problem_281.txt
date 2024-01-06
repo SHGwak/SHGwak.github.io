@@ -1,7 +1,0 @@
-그림과 같이 추 2 개가 세 개의 실 $\mathrm{A}, \mathrm{B}, \mathrm{C}$ 에 매달려 평형을 이루고 있다. 왼쪽 추의 질량은 $m$ 이고, $\mathrm{A}$ 와 $\mathrm{C}$ 의 한쪽 끝은 천정에 연결되어 있고, $\mathrm{B}$ 는 수평하다. 그리고 $\theta=30^{\circ}$ 이고, 중력가속도는 $g$ 이다.
-
-![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-182.jpg?height=316&width=722&top_left_y=521&top_left_x=515)
-
-(1) A와 B에 작용하는 장력의 크기를 구하여라.
-
-(2) 오른쪽 추 X의 질량을 구하여라.

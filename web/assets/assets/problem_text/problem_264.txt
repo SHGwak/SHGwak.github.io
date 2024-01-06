@@ -1,3 +1,0 @@
-그림과 같이 강체막대에 크기가 $F$ 인 힘이 작용한다. 회전축은 $\mathrm{O}$ 점을 지나면 서 종이면과 수직하고, $\mathrm{O}$ 점과 힘의 작용선까지 거리는 $d$ 이며, 막대의 연장선과 힘의 방향이 이루는 각도는 $\theta$ 이다. 가한 힘에 의한 돌림힘을 구하여라.
-
-![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-177.jpg?height=439&width=544&top_left_y=839&top_left_x=618)

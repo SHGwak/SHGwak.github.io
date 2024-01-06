@@ -1,3 +1,0 @@
-그림과 같이 $100 \mathrm{~m}$ 떨어져 있는 사람이 동시에 $\mathrm{A}$ 는 동쪽으로 $8 \mathrm{~m} / \mathrm{s}$ 의 속력 으로 걸어가고 $\mathrm{B}$ 는 $6 \mathrm{~m} / \mathrm{s}$ 의 속력으로 남쪽으로 걸어갔다. (1) $\mathrm{A}$ 와 $\mathrm{B}$ 가 가장 가까워 질 때까지 걸린 시간과 (2) 그 때 $\mathrm{A}$ 와 $\mathrm{B}$ 사이의 거리를 구하여라.
-
-![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-047.jpg?height=217&width=599&top_left_y=1840&top_left_x=593)

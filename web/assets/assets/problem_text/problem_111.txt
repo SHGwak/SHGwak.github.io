@@ -1,7 +1,0 @@
-그림과 같이 질량이 $10 \mathrm{~kg}, 2 \mathrm{~kg}$ 인 두 물체 $\mathrm{A}, \mathrm{B}$ 가 수평한 지면 위에 놓여 있다.
-
-![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-079.jpg?height=168&width=553&top_left_y=475&top_left_x=608)
-
-(1) $\mathrm{A}$ 가 $\mathrm{B}$ 에 가하는 수직항력의 크기를 구하여라.
-
-(2) 지면이 $\mathrm{A}$ 에 가하는 수직항력의 크기를 구하여라.

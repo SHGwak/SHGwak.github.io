@@ -1,1 +1,0 @@
-어떤 행성의 대기권의 높이는 $10 \mathrm{~km}$, 대기의 평균밀도는 $0.5 \mathrm{~kg} / \mathrm{m}^{3}$, 표면 중력가속도는 $5 \mathrm{~m} / \mathrm{s}^{2}$ 이다. 이 행성 표면에서의 기압은 몇 $\mathrm{N} / \mathrm{m}^{2}$ 인가?

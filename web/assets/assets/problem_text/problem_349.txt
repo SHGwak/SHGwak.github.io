@@ -1,7 +1,0 @@
-거리 $R$ 만큼 떨어진 두 항성 $\mathrm{A}, \mathrm{B}$ 는 같은 원궤도를 따라 등속 원운동하고 있다. 두 항성의 질량은 모두 $M$ 이고, 중력상수는 $G$ 이다.
-
-![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-221.jpg?height=365&width=477&top_left_y=468&top_left_x=663)
-
-(1) $\mathrm{A}$ 의 공전속력을 구하여라.
-
-(2) $\mathrm{B}$ 의 공전주기를 구하여라.

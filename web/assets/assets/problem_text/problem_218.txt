@@ -1,3 +1,0 @@
-그림과 같이 질량 $2 \mathrm{~kg}$ 인 공을 $20 \mathrm{~m} / \mathrm{s}$ 의 속력으로 벽에 던졌더니 $20 \mathrm{~m} / \mathrm{s}$ 의 속력으로 튕겨 나갔다. 벽과 충돌 전과 충돌 후 공의 운동 방향은 모두 벽과 수직한 직선과 $30^{\circ}$ 의 각도를 이룬다. 벽과 충돌시간이 0.1 초일 때 충돌하는 동안 공이 벽으 로부터 받은 평균힘의 크기를 구하여라.
-
-![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-141.jpg?height=382&width=299&top_left_y=1321&top_left_x=752)

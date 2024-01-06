@@ -1,7 +1,0 @@
-질량이 각각 $2 m, m$ 인 두 물체 $\mathrm{A}$ 와 $\mathrm{B}$ 를 그림과 같이 마찰이 없는 수평면 위에 놓고 크기가 $F$ 로 일정한 힘을 수평 방향으로 $\mathrm{A}$ 에 가하였더니 $\mathrm{B}$ 가 아래로 떨 어지지 않았다. $\mathrm{A}$ 와 $\mathrm{B}$ 사이의 정지마찰계수는 $\mu$, 중력가속도는 $g$ 이다.
-
-![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-088.jpg?height=242&width=617&top_left_y=541&top_left_x=590)
-
-(1) $\mathrm{A}$ 가 $\mathrm{B}$ 를 미는 힘의 크기는 $F$ 의 몇 배인가?
-
-(2) $F$ 의 최솟값을 $\mu, m, g$ 로 나타내어라.

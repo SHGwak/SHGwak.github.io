@@ -1,5 +1,0 @@
-그림은 질량을 무시할 수 있는 3 개의 막대와 4 개의 공 $\mathrm{A}, \mathrm{B}, \mathrm{C}, \mathrm{D}$ 가 질량 을 무시할 수 있는 실에 연결되어 정지해 있는 모습이다. 막대는 수평이고, 눈금 1 칸 사이의 간격은 모두 같다.
-
-![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-185.jpg?height=425&width=1001&top_left_y=1442&top_left_x=367)
-
-$\mathrm{D}$ 의 질량이 $m$ 일 때, (1) $\mathrm{A}$, (2) $\mathrm{B}$, (3) $\mathrm{C}$ 의 질량은 얼마인가?

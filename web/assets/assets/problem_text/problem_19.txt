@@ -1,1 +1,0 @@
-$\mathrm{A}$ 점에서 $\mathrm{B}$ 점까지 평균속력 $6 \mathrm{~m} / \mathrm{s}$ 로 운동하려고 한다. $\mathrm{A}$ 점과 $\mathrm{B}$ 점의 중간 지 점까지 평균속력이 $4 \mathrm{~m} / \mathrm{s}$ 라면 나머지 구간은 얼마의 평균속력으로 달려야 하겠는가?

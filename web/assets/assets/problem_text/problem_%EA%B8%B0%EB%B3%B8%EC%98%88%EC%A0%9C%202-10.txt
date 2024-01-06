@@ -1,3 +1,0 @@
-그림과 같이 수평 방향으로 $20 \mathrm{~m} / \mathrm{s}$ 의 속력으로 발사된 화살이 0.2 초 후 과녁의 $\mathrm{X}$ 점을 맞추었다. 화살을 쏜 지점과 $\mathrm{O}$ 점의 높이가 같다고 할 때 $\mathrm{O}$ 점과 $\mathrm{X}$ 점 사 이의 거리를 구하여라.
-
-![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-030.jpg?height=282&width=690&top_left_y=1405&top_left_x=548)

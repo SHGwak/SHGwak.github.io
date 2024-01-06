@@ -1,3 +1,0 @@
-그림과 같이 경사각이 $45^{\circ}$ 인 경사면의 $\mathrm{A}$ 점으로부터 높이 $10 \mathrm{~m}$ 인 지점에서 물체를 수평 방향으로 $5 \mathrm{~m} / \mathrm{s}$ 의 속력으로 발사하였더니 경사면의 B점에 도달하였다. $\mathrm{A}$ 점과 $\mathrm{B}$ 점 사이의 거리를 구하여라.
-
-![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-042.jpg?height=539&width=403&top_left_y=1248&top_left_x=700)

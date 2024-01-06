@@ -1,3 +1,0 @@
-외부에서 힘이 가해지지 않은 상태에서 길이가 모두 $10 \mathrm{~cm}$ 인 두 용수철 $\mathrm{A}$ 와 $\mathrm{B}$ 를 그림과 같이 연결하였다. 가벼운 실을 용수철의 양 끝에 연결하여 양쪽으로 $F$ 의 힘을 가하였더니 $\mathrm{A}$ 와 $\mathrm{B}$ 의 길이가 각각 $15 \mathrm{~cm}, 12.5 \mathrm{~cm}$ 가 되었다. $\mathrm{A}$ 의 용수철 상수가 $100 \mathrm{~N} / \mathrm{m}$ 일 때 (1) $\mathrm{F}$ 의 크기와 (2) $\mathrm{B}$ 의 용수철상수를 구하여라.
-
-![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-083.jpg?height=108&width=895&top_left_y=582&top_left_x=434)

@@ -1,7 +1,0 @@
-지면의 A점에서 공을 수평방향과 $60^{\circ}$ 의 각도를 이루며 $20 \mathrm{~m} / \mathrm{s}$ 의 속력으로 발 사하였더니 $\mathrm{B}$ 점을 $v$ 의 속력으로 통과하였다. B점을 통과하는 순간 수평방향과 속도의 방향이 이루는 각도는 $30^{\circ}$ 이다.
-
-![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-033.jpg?height=431&width=778&top_left_y=589&top_left_x=518)
-
-(1) $v$ 를 구하여라.
-
-(2) 공이 A점에서 B점까지 운동한 시간을 구하여라.

@@ -1,3 +1,0 @@
-지구 표면 근처에서 길이가 $2 l$ 인 단진자가 그림과 같이 진동운동을 하고 있다. 이 단진자의 주기를 구하여라. 단, 중력가속도는 $g$ 이다.
-
-![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-227.jpg?height=397&width=459&top_left_y=526&top_left_x=683)

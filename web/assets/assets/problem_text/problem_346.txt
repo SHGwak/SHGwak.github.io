@@ -1,9 +1,0 @@
-그림과 같이 질량 $M$ 인 지구 주위를 등속 원운동하는 질량 $m$ 인 인공위성 $\mathrm{A}$ 와 질량 $2 m$ 인 인공위성 $\mathrm{B}$ 가 있다. 인공위성 $\mathrm{A}$ 의 궤도반지름은 $r$, 인공위성 $\mathrm{B}$ 의 궤도반지름은 $4 r$ 이다. 그리고 두 인공위성 사이에 작용하는 중력은 무시한다.
-
-![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-219.jpg?height=545&width=539&top_left_y=1234&top_left_x=632)
-
-(1) 공전속력은 $\mathrm{A}$ 가 $\mathrm{B}$ 의 몇 배인가?
-
-(2) 가속도의 크기는 $\mathrm{A}$ 가 $\mathrm{B}$ 의 몇 배인가?
-
-(3) $\mathrm{A}$ 의 공전주기를 $T$ 라 하면, $\mathrm{B}$ 의 공전주기는 얼마인가?

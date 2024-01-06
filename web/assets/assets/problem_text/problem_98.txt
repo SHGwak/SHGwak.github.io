@@ -1,3 +1,0 @@
-그림과 같이 질량 $1 \mathrm{~kg}, 2 \mathrm{~kg}, 3 \mathrm{~kg}, 4 \mathrm{~kg}$ 인 물체 $\mathrm{A}, \mathrm{B}, \mathrm{C}, \mathrm{D}$ 를 질량을 무시 할 수 있는 실 $\mathrm{a}, \mathrm{b}, \mathrm{c}$ 로 연결시킨 후, $\mathrm{D}$ 의 오른쪽에서 크기가 일정한 힘을 수평방 향으로 계속 가하였다. 실 $\mathrm{a}, \mathrm{b}, \mathrm{c}$ 에 작용하는 힘의 크기를 각각 $T_{a}, T_{b}, T_{c}$ 라 할 때 $T_{a}: T_{b}: T_{c}$ 의 값을 구하여라.
-
-![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-065.jpg?height=166&width=893&top_left_y=1777&top_left_x=432)

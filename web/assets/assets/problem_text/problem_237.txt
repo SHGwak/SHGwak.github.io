@@ -1,3 +1,0 @@
-그림과 같이 공을 떨어뜨려 지면과 $45^{\circ}$ 의 각도를 이루는 경사면의 $\mathrm{A}$ 점에 맞고 튀어나와 지면과 접한 $\mathrm{B}$ 점에 떨어지도록 하려고 한다. 지면에서 $\mathrm{A}$ 점까지의 높 이를 $h$ 라 할 때, $\mathrm{A}$ 점으로부터 얼마의 높이에서 공을 떨어뜨려야 하겠는가? 단, 공과 경사면 사이의 충돌은 탄성충돌이다.
-
-![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-151.jpg?height=462&width=488&top_left_y=579&top_left_x=652)

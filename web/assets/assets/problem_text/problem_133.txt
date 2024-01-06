@@ -1,3 +1,0 @@
-경사각 $\theta=30^{\circ}$ 인 빗면 위에 질량 $m$ 인 물체가 $a$ 의 가속도로 미끄러진다. 빗면과 물체 사이의 운동마찰계수는 $\frac{1}{2 \sqrt{3}}$ 이다. $\frac{a}{g}$ 의 값은 얼마인가? 단, 중력가속 도는 $g$ 이다.
-
-![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-087.jpg?height=240&width=533&top_left_y=1657&top_left_x=635)

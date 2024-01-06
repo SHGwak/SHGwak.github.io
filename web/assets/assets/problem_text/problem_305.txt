@@ -1,5 +1,0 @@
-그림은 부피가 같은 두 공 $\mathrm{A}$ 와 $\mathrm{B}$ 를 가벼운 두 실 $\mathrm{a}, \mathrm{b}$ 로 연결한 후 물이 들어있는 용기 바닥에 연결하였을 때 평형을 이루는 모습이다. 물의 밀도는 $3 \rho, \mathrm{A}$ 의 밀도는 $\rho, \mathrm{B}$ 의 밀도는 $2 \rho$ 이다.
-
-![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-194.jpg?height=411&width=371&top_left_y=522&top_left_x=699)
-
-실 a에 작용하는 장력의 크기는 실 $\mathrm{b}$ 에 작용하는 장력의 크기의 몇 배인가?
