@@ -1,0 +1,7 @@
+그림과 같이 천장에 매달린 줄의 아래에 길이가 $4 \mathrm{~m}$ 이고 밀도가 균일한 막대가 매달려 있고, 막대의 양끝에는 질량이 각각 $10 \mathrm{~kg}, 5 \mathrm{~kg}$ 인 물체가 매달려 있다.
+
+![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-170.jpg?height=300&width=739&top_left_y=1596&top_left_x=526)
+
+(1) 막대의 질량을 구하여라.
+
+(2) 줄에 작용하는 힘의 크기를 구하여라.

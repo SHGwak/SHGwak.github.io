@@ -1,0 +1,5 @@
+그림과 같이 수평면 위에서 $2 \mathrm{~m} / \mathrm{s}$ 의 속력으로 운동하고 있는 질량 $4 \mathrm{~kg}$ 의 물체에 크기가 $40 \mathrm{~N}$ 인 수평 방향의 힘을 계속 작용하였더니 $5 \mathrm{~m}$ 의 거리를 미끄러진 후, 속력이 $8 \mathrm{~m} / \mathrm{s}$ 가 되었다.
+
+![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-075.jpg?height=202&width=676&top_left_y=1502&top_left_x=563)
+
+(1) 물체가 운동하는 동안 가속도의 크기와 (2) 물체와 수평면 사이의 운동마찰계 수를 구하여라.

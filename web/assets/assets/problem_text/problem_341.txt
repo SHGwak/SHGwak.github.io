@@ -1,0 +1,7 @@
+그림은 태양 주위를 타원 궤도를 따라 운동하는 소행성의 모습이다. O점은 타원의 중심이고, $\mathrm{A}$ 점은 근일점, $\mathrm{C}$ 점은 원일점이다. 태양에서 $\mathrm{A}$ 점까지 거리는 $2 a$, 태양에서 B점까지 거리는 $8 a$ 이다.
+
+![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-217.jpg?height=373&width=448&top_left_y=518&top_left_x=677)
+
+(1) O점에서 $\mathrm{B}$ 점까지 거리는 얼마인가?
+
+(2) 소행성이 $\mathrm{A}$ 점에서 $\mathrm{B}$ 점까지 운동한 최소 시간은 $\mathrm{B}$ 점에서 $\mathrm{C}$ 점까지 운동한 최소 시간보다 큰가, 작은가, 아니면 같은가?

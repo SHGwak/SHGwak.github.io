@@ -1,0 +1,5 @@
+그림과 같이 $\mathrm{a}$ 점에서 로켓을 비스듬히 쏘아 올렸더니 최고점 $\mathrm{b}$ 점에 도달하 는 순간 폭발하여 질량이 같은 두 조각 $\mathrm{X}, \mathrm{Y}$ 로 분리되었다. $\mathrm{X}$ 는 $\mathrm{b}$ 점을 지나는 연직 선과 지면과의 교점인 $\mathrm{c}$ 점에 떨어졌고, $\mathrm{Q}$ 는 지면의 $\mathrm{d}$ 점에 떨어졌다. 그리고 $\mathrm{a}$ 점과 c점 사이의 거리는 $L$ 이다.
+
+![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-144.jpg?height=331&width=801&top_left_y=1580&top_left_x=481)
+
+a점과 d점 사이의 거리는? 단, 공기의 저항 및 로켓의 크기는 무시한다.

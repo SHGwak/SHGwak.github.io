@@ -1,0 +1,5 @@
+그림은 지면에서 발사된 세 물체 $\mathrm{A}, \mathrm{B}, \mathrm{C}$ 의 포물선 궤도이다. 세 포물선 궤도에 서 최고점의 높이는 모두 같다.
+
+![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-032.jpg?height=217&width=759&top_left_y=1412&top_left_x=516)
+
+(1) 최고점 도달시간, (2) 최고점을 통과하는 순간속력, (3) 발사속력이 각각 큰 순서대로 세 물체를 나열하라.

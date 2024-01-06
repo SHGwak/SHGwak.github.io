@@ -1,0 +1,9 @@
+마찰이 있는 수평면에서 정지하고 있던 질량 $2 \mathrm{~kg}$ 인 물체에 수평 방향으로 크기가 $20 \mathrm{~N}$ 인 힘을 가하였더니 물체가 $10 \mathrm{~m}$ 의 거리를 이동한 후 속력이 $10 \mathrm{~m} / \mathrm{s}$ 가 되었다. 다음 표를 완성하여라.
+
+\begin{tabular}{|c|c|}
+\hline 외부힘이 한 일 $W_{\mathrm{ext}}$ & \\
+\hline 운동에너지의 변화량 $\Delta K$ & \\
+\hline 퍼텐셜에너지의 변화량 $\Delta U$ & \\
+\hline 마찰력에 의하여 발생한 열 & \\
+\hline
+\end{tabular}

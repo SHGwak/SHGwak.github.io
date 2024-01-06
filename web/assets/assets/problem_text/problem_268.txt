@@ -1,0 +1,7 @@
+그림은 길이 $L$ 이고 질량이 $1 \mathrm{~kg}$ 인 막대의 양 끝에 가벼운 실 $\mathrm{A}, \mathrm{B}$ 로 연결 되어 막대가 평형을 이룬 모습이다. $\mathrm{A}$ 에 작용하는 장력의 크기는 $\mathrm{B}$ 에 작용하는 장력 의 크기의 3 배이다.
+
+![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-178.jpg?height=180&width=533&top_left_y=532&top_left_x=612)
+
+(1) A에 작용하는 장력의 크기는?
+
+(2) 막대의 왼쪽 끝부터 막대의 무게중심까지 거리는?

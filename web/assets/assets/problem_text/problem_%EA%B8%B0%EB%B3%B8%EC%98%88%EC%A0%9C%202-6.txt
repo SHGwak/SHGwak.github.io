@@ -1,0 +1,5 @@
+그림과 같이 $x y$ 평면에서 원점을 중심으로 반지름 $1 \mathrm{~m}$ 인 원궤도를 따라 시계방향 으로 원운동하는 물체가 있다. 이 물체가 $\mathrm{A}$ 점에서 출발하여 $\mathrm{B}$ 점에 최초로 도착 하는 시간은 2 초이다.
+
+![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-028.jpg?height=527&width=550&top_left_y=1528&top_left_x=615)
+
+이 물체가 $\mathrm{A}$ 점에서 출발하여 $\mathrm{B}$ 점에 최초로 도착하는 동안 (1) 평균속력과 (2) 평균속도의 크기를 구하여라.

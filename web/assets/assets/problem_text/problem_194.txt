@@ -1,0 +1,7 @@
+그림과 같이 질량 $3 \mathrm{~kg}$ 인 물체 $\mathrm{A}$ 와 질량 $2 \mathrm{~kg}$ 인 물체 $\mathrm{B}$ 가 도르래를 통하여 연결되어 있다. $\mathrm{A}$ 를 손으로 잡고 있다가 시간 0 일 때 가만히 놓았더니 시간 $t$ 일 때 $\mathrm{A}$ 는 처음 위치로부터 $1 \mathrm{~m}$ 내려간 위치를, $\mathrm{B}$ 는 처음 위치로부터 $1 \mathrm{~m}$ 올라간 위치를 통과하였다. 단, 공기의 저항 및 모든 마찰은 무시한다.
+
+![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-125.jpg?height=562&width=437&top_left_y=1436&top_left_x=660)
+
+(1) 시간 0 부터 $t$ 까지 계의 퍼텐셜에너지의 변화량을 구하여라.
+
+(2) 시간 $t$ 일 때 (1) $\mathrm{A}$ 와 (2) $\mathrm{B}$ 의 운동에너지를 구하여라.

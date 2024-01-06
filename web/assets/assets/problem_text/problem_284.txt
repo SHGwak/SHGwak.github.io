@@ -1,0 +1,5 @@
+그림은 오른쪽 끝에 질량 $m$ 인 공을 놓은 판자가 평형을 이루는 모습을 나 타낸 것이다. $d \leq \frac{2}{3} L$ 이고, 판자의 밀도는 균일하고 길이는 $L$, 질량은 $M$ 이다.
+
+![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-183.jpg?height=253&width=493&top_left_y=1391&top_left_x=632)
+
+$\frac{m}{M}$ 의 최솟값은?

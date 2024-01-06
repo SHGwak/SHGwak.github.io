@@ -1,0 +1,5 @@
+그림은 한 변의 길이가 $d$ 인 정사각형판에 크기가 $F$ 인 힘 $\mathrm{A}$ 점에 작용하고 있는 모습을 나타낸 것이다. 회전축은 O점을 지나면서 종이면과 수직하다.
+
+![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-168.jpg?height=514&width=465&top_left_y=1483&top_left_x=663)
+
+크기가 $F$ 인 힘에 의한 돌림힘을 구하여라.

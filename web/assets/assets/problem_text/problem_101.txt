@@ -1,0 +1,5 @@
+그림은 네 마리의 펭귄을 매우 미끄러운 얼음 위에서 잡아당기는 모습을 보 여주고 있다.
+
+![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-067.jpg?height=251&width=918&top_left_y=474&top_left_x=428)
+
+손으로 당기는 힘의 크기는 $300 \mathrm{~N}$ 이고, 줄 $\mathrm{B}$ 에 작용하는 힘의 크기는 $180 \mathrm{~N}$ 이다. (1) 두 번째 펭귄의 질량, (2) 줄 $\mathrm{A}$ 와 (3) 줄 $\mathrm{C}$ 에 작용하는 힘의 크기를 구하여라.

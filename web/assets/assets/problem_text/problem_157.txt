@@ -1,0 +1,5 @@
+그림과 같이 마찰이 없는 수평면 위에 있는 질량 $M$ 인 물체 $\mathrm{A}$ 와 질량 $4 M$ 인 물체 $\mathrm{B}$ 가 선분 $l$ 에서 정지하고 있다가 각각 크기가 $F$ 와 $2 F$ 인 힘을 계속 받아서 선분 $m$ 까지 이동하였다.
+
+![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-102.jpg?height=362&width=728&top_left_y=1399&top_left_x=523)
+
+두 선분 사이의 거리가 $s$ 일 때, (1) $\mathrm{A}$ 와 (2) $\mathrm{B}$ 가 선분 $m$ 에 도달하는 순간 운동에너 지를 구하여라.

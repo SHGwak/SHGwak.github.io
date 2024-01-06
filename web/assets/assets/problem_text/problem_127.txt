@@ -1,0 +1,5 @@
+수평면에 경사각 $45^{\circ}$ 인 빗면을 포함하는 질량 $2 m$ 인 물체 $\mathrm{A}$ 가 고정되어 있고, $\mathrm{A}$ 의 빗면 위에 질량 $m$ 인 물체를 놓려 놓은 후, 크기가 $F$ 인 수평 방향의 힘을 가하였더니 $\mathrm{B}$ 가 정지하였다. 단, 중력가속도는 $g$ 이다.
+
+![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-084.jpg?height=485&width=736&top_left_y=1575&top_left_x=499)
+
+(1) $F$ 와 (2) $\mathrm{A}$ 가 $\mathrm{B}$ 에 가하는 수직항력의 크기, (3) 수평면이 $\mathrm{A}$ 에 가하는 수직항력의 크기를 구하여라.

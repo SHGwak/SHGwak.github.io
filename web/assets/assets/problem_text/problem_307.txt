@@ -1,0 +1,13 @@
+그림과 같이 세 개의 입자는 반지름이 모두 $r$ 인 원둘레에 놓여 있다. 원의 중심에 있는 입자 $M$ 에 작용하는 알짜중력의 크기가 큰 순서대로 나열하여라.
+
+![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-205.jpg?height=231&width=228&top_left_y=592&top_left_x=479)
+
+(가)
+
+![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-205.jpg?height=229&width=214&top_left_y=590&top_left_x=769)
+
+(나)
+
+![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-205.jpg?height=231&width=231&top_left_y=592&top_left_x=1048)
+
+(다)

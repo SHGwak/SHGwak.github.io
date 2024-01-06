@@ -1,0 +1,1 @@
+어떤 사람이 직선상의 두 지점 $\mathrm{A}$ 점과 $\mathrm{B}$ 점 사이를 왕복하였다. $\mathrm{A}$ 점에서 $\mathrm{B}$ 점까 지는 $6 \mathrm{~m} / \mathrm{s}$ 의 속력으로, B점에서 $\mathrm{A}$ 점까지는 $4 \mathrm{~m} / \mathrm{s}$ 의 속력으로 운동하였으며, $\mathrm{B}$ 점에 머물러 있던 시간은 무시하기로 한다. 이 사람이 $\mathrm{A}$ 점과 $\mathrm{B}$ 점 사이를 왕복 하는 동안 평균속력을 구하여라.

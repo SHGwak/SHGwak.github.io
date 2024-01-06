@@ -1,0 +1,9 @@
+그림과 같이 시작점이 모두 같은 3 개의 벡터 $\vec{a}, \vec{b}, \vec{c}$ 가 있다. 3 개의 벡터의 크 기는 모두 $d$ 로 같고, 이웃하는 두 벡터 사이의 각도는 $120^{\circ}$ 이다.
+
+![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-040.jpg?height=442&width=451&top_left_y=455&top_left_x=676)
+
+(1) $\vec{a}+\vec{c}$ 의 크기를 구하여라.
+
+(2) $\vec{b}-\vec{c}$ 의 크기를 구하여라.
+
+(3) $\vec{b}+\vec{c}-\vec{a}$ 의 크기를 구하여라.

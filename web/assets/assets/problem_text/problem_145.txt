@@ -1,0 +1,1 @@
+지면으로부터 $45 \mathrm{~m}$ 인 높이인 $\mathrm{A}$ 점에서 질량 $100 \mathrm{~g}$ 인 공을 $30 \mathrm{~m} / \mathrm{s}$ 의 속력으 로 발사하였더니 지면의 $\mathrm{B}$ 점에 도달하였다. 공이 $\mathrm{A}$ 점에서 $\mathrm{B}$ 점까지 운동하는 동안 중력이 공에 한 일을 구하여라.

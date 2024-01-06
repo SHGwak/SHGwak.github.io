@@ -1,0 +1,7 @@
+그림은 용수철저울과 연결된 밀도 $4 \mathrm{~kg} / \mathrm{L}$, 부피 $2 \mathrm{~L}$ 인 물체가 물 속에 완전히 잠 겨있는 상태로 정지해 있는 모습을 나타낸 것이다. 단, 물의 밀도는 $1 \mathrm{~kg} / \mathrm{L}$ 이다.
+
+![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-174.jpg?height=454&width=325&top_left_y=526&top_left_x=750)
+
+(1) 물체에 작용하는 부력의 크기는 몇 $\mathrm{N}$ 인가?
+
+(2) 저울의 눈금은 몇 $\mathrm{N}$ 인가?

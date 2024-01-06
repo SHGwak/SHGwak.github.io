@@ -1,0 +1,7 @@
+$x y$ 평면 위에서 어떤 입자는 $\mathrm{A}$ 점에서 $\mathrm{B}$ 점까지 원궤도를 따라 운동한다. $\mathrm{A}$ 점의 좌표는 $(2 \mathrm{~m}, 0)$ 이고, $\mathrm{B}$ 점의 좌표는 $(1 \mathrm{~m}, \sqrt{3} \mathrm{~m})$ 이다. 그리고, 물체가 $\mathrm{A}$ 점에서 $\mathrm{B}$ 점까지 운동할 때 변위는 $\overrightarrow{\Delta r}$ 이다.
+
+(1) $\mathrm{A}$ 점에서 $\mathrm{B}$ 점까지 입자가 운동한 거리를 구하여라.
+
+(2) $\Delta \vec{r}$ 의 크기를 구하여라.
+
+(3) $\Delta \vec{r}$ 과 양의 $x$ 축과 이루는 각도를 구하여라.

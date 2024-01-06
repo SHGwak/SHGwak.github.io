@@ -1,0 +1,7 @@
+그림은 마찰이 없는 수평면 위에서 가벼운 두 실에 매달려 같은 각속도 $\omega$ 로 등속 원운동하는 두 물체 $\mathrm{A}$ 와 $\mathrm{B}$ 를 나타낸 것이다. 두 물체의 질량은 모두 $m$ 이고, $\mathrm{O}$ 점과 물체 $\mathrm{A}$ 를 연결한 실과 물체 $\mathrm{A}$ 와 물체 $\mathrm{B}$ 를 연결한 실의 길이는 모두 $l$ 이다.
+
+![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-162.jpg?height=468&width=487&top_left_y=1084&top_left_x=635)
+
+(1) 물체 $\mathrm{A}$ 와 물체 $\mathrm{B}$ 를 연결한 실에 작용하는 힘의 크기를 구하여라.
+
+(2) $\mathrm{O}$ 점과 물체 $\mathrm{A}$ 를 연결한 실에 작용하는 힘의 크기를 구하여라.

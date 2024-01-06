@@ -1,0 +1,7 @@
+그림은 단순조화운동을 하는 질량 $m$ 인 물체의 시간과 운동에너지 사이의 관 계를 나타낸 것이다. 물체와 연결된 용수철의 용수철상수는 $100 \mathrm{~N} / \mathrm{m}$ 이다.
+
+![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-233.jpg?height=371&width=921&top_left_y=1463&top_left_x=424)
+
+(1) 운동의 진폭을 구하여라.
+
+(2) $m$ 을 구하여라.

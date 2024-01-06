@@ -1,0 +1,7 @@
+지면의 $\mathrm{A}$ 점에서 지면에 수직으로 서 있는 벽을 향하여 $45^{\circ}$ 의 방향으로 $40 \mathrm{~m} / \mathrm{s}$ 의 속력으로 공을 던졌더니 벽의 B점에 벽과 수직하게 충돌하였다.
+
+![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-044.jpg?height=408&width=539&top_left_y=1142&top_left_x=632)
+
+(1) $\mathrm{B}$ 점의 높이 $h$ 를 구하여라.
+
+(2) A점과 벽 사이의 거리 $l$ 을 구하여라.

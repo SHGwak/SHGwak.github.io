@@ -1,0 +1,5 @@
+그림과 같이 질량 $3 m$ 인 물체 $\mathrm{A}$ 와 질량 $m$ 인 물체 $\mathrm{B}$ 가 고정 도르래로 연 결되어 있다.
+
+![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-084.jpg?height=402&width=377&top_left_y=458&top_left_x=696)
+
+(1) 실에 작용하는 장력의 크기와 (2) $\mathrm{A}$ 에 작용하는 수직항력의 크기를 구하여라. 단, 중력가속도는 $g$ 이고, 실의 질량은 무시한다.

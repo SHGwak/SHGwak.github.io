@@ -1,0 +1,5 @@
+그림은 어떤 벽에 작용하는 힘 $F$ 와 시간 $t$ 사이의 관계를 나타낸 것이다.
+
+(1) $t=0.4 \mathrm{~s}$ 부터 $t=0.6 \mathrm{~s}$ 까지, (2) $t=0.1 \mathrm{~s}$ 부터 $t=0.5 \mathrm{~s}$ 까지 벽이 받는 평균힘의 크기를 구하여라.
+
+![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-143.jpg?height=377&width=671&top_left_y=1637&top_left_x=543)

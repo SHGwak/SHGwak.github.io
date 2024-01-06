@@ -1,0 +1,5 @@
+빗면 위의 $\mathrm{A}$ 점에서 물체를 $10 \mathrm{~m} / \mathrm{s}$ 의 속력으로 밀어 올렸더니 $\mathrm{B}$ 점까지 올라 간 후 다시 내려와서 C점을 $20 \mathrm{~m} / \mathrm{s}$ 의 속력으로 통과하였다. 이 물체는 등가속도 직 선 운동을 하였고, $\mathrm{A}$ 점에서 $\mathrm{B}$ 점까지 진행한 시간은 2 초이다.
+
+![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-018.jpg?height=294&width=542&top_left_y=1690&top_left_x=628)
+
+(1) $\mathrm{A}$ 점과 $\mathrm{B}$ 점 사이의 거리와 (2) $\mathrm{A}$ 점과 $\mathrm{C}$ 점 사이의 거리를 구하여라.

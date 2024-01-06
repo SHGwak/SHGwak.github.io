@@ -1,0 +1,9 @@
+그림과 같이 질량이 모두 $m$ 인 상자 $\mathrm{A}, \mathrm{B}, \mathrm{C}$ 를 가 벼운 실 $\mathrm{a}, \mathrm{b}$ 로 연결시킨 후 연직 위 방향으로 크기가 $F$ 인 를 계속 가하였더니 세 상자는 연직 위 방향으로 크기가 $\frac{1}{2} g$ 인 가속도로 운동하였다. 단, 중력가속도는 $g$ 이다.
+
+(1) $F$ 는 얼마인가?
+
+(2) 실 b가 C를 당기는 힘의 크기를 구하여라.
+
+![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-067.jpg?height=465&width=325&top_left_y=1319&top_left_x=1178)
+
+(3) 실 $\mathrm{a}$ 가 $\mathrm{B}$ 를 당기는 힘의 크기를 구하여라.

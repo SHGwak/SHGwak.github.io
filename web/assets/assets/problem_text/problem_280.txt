@@ -1,0 +1,7 @@
+그림에서 오른쪽 줄에 가해진 크기가 $F$ 인 힘에 의하여 질량 $7 \mathrm{~kg}$ 인 물체와 도르래들이 평형을 유지한다. 도르래의 질 량과 마찰은 무시한다.
+
+(1) $F$ 는 몇 $N$ 인가?
+
+(2) 줄 $\mathrm{A}$ 에 작용하는 장력의 크기는 얼마인가?
+
+![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-181.jpg?height=591&width=308&top_left_y=1245&top_left_x=1201)

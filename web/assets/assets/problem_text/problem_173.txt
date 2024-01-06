@@ -1,0 +1,5 @@
+그림과 같이 높이가 같은 곳에서 질량이 같은 물체를 $\mathrm{A}, \mathrm{B}, \mathrm{C}$ 방향으로 같 은 속력으로 던졌을 때 지면에 도달하는 순간속력을 비교하라. 단, 모든 마찰은 무시 한다.
+
+![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-116.jpg?height=146&width=435&top_left_y=1904&top_left_x=704)
+
+지면

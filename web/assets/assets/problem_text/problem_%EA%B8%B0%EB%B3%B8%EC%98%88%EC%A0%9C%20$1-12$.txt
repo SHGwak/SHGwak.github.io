@@ -1,0 +1,21 @@
+시간 $t=0$ 일 때 $8 \mathrm{~m} / \mathrm{s}$ 의 속력으로 $\mathrm{P}$ 점을 동쪽방향으로 통과한 물체는 등가속
+
+도 직선운동을 하여 $t=3 \mathrm{~s}$ 일 때 서쪽방향으로 $4 \mathrm{~m} / \mathrm{s}$ 의 속력으로 통과하였다.
+
+(1) $t=0$ 부터 $t=4 \mathrm{~s}$ 까지 (시간-속도) 그래프를 그려라.
+
+![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-007.jpg?height=459&width=751&top_left_y=615&top_left_x=503)
+
+(2) 물체의 운동방향을 바꿀 때까지 운동한 거리를 구하여라.
+
+(3) P점과 Q점 사이의 거리를 구하여라.
+
+기본예제 1-13
+
+그림은 직선운동을 하는 어떤 물체의 가속도와 시간 사이의 관계를 나타낸 그 래프이다. 시간 0 일 때 물체의 속도는 0 이다.
+
+![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-008.jpg?height=456&width=725&top_left_y=528&top_left_x=516)
+
+이 물체의 (시간-속도) 그래프를 그려라.
+
+![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-008.jpg?height=485&width=739&top_left_y=1110&top_left_x=515)

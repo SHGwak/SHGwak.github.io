@@ -1,0 +1,1 @@
+지면 근처에서 낙하하고 있는 물체가 $\mathrm{A}$ 점과 $\mathrm{B}$ 점을 통과할 때 속도가 각각 $20 \mathrm{~m} / \mathrm{s}, 40 \mathrm{~m} / \mathrm{s}$ 이다. A점과 B점 사이의 거리는?

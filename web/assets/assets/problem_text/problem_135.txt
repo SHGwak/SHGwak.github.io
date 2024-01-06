@@ -1,0 +1,13 @@
+마찰이 없는 수평면 위에 질량 $3 m$ 인 판 $\mathrm{A}$ 를 놓고 그 위에 질량 $m$ 인 물체 $\mathrm{B}$ 를 놓았다.
+
+![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-088.jpg?height=137&width=596&top_left_y=1592&top_left_x=267)
+
+(가)
+
+![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-088.jpg?height=154&width=573&top_left_y=1575&top_left_x=929)
+
+(나)
+
+(1) 그림 (가)와 같이 수평 방향으로 크기가 $F$ 인 힘을 $\mathrm{A}$ 에 가하였더니, $\mathrm{A}$ 와 $\mathrm{B}$ 는 같 은 가속도로 운동하였다. $\mathrm{B}$ 가 $\mathrm{A}$ 로부터 받은 마찰력의 크기를 구하여라.
+
+(2) 그림 (나)와 같이 수평 방향으로 크기가 $F$ 인 힘을 $\mathrm{B}$ 에 가하였더니, $\mathrm{A}$ 와 $\mathrm{B}$ 는 같 은 가속도로 운동하였다. $\mathrm{B}$ 가 $\mathrm{A}$ 로부터 받은 마찰력의 크기를 구하여라.

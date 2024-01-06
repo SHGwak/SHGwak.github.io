@@ -1,0 +1,5 @@
+수평면의 $\mathrm{A}$ 점에서 질량 $m$ 인 물체를 $v_{0}$ 의 속력으로 $60^{\circ}$ 의 발사각으로 발 사하였다. 이 물체는 포물선 궤도를 그리면서 운동하다가 B점을 통과하였다. 물체가 $\mathrm{B}$ 점을 통과할 때 운동 방향과 수평면이 이루는 각도는 $30^{\circ}$ 이다.
+
+![](https://cdn.mathpix.com/cropped/2023_12_21_d219fadfc9700450016eg-121.jpg?height=291&width=639&top_left_y=525&top_left_x=568)
+
+중력가속도가 $g$ 일 때 $\mathrm{B}$ 점의 높이는?

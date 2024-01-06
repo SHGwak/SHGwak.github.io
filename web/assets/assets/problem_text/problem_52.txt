@@ -1,0 +1,5 @@
+세 벡터 $\vec{a}, \vec{b}, \vec{c}$ 사이에는 $\vec{c}=\vec{a}+\vec{b}$ 인 관계가 성립한다. 다음의 경우 $\vec{a}$ 와 $\vec{b}$ 가 이루는 각도 $\theta$ 는 얼마인가? 단, $0^{\circ} \leq \theta \leq 180^{\circ}$ 이다.
+(1) $c=a+b$
+(2) $c=|a-b|$
+(3) $c^{2}=a^{2}+b^{2}$
+(4) $a=b=c$
