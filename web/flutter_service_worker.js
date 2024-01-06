@@ -94,7 +94,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "8c93f44e5083f01ac26c3e8b90adca3c
 "assets/packages/flutter_tex/js/katex/fonts/KaTeX_Typewriter-Regular.woff": "0e0460587676d22eae09accd6dcfebc6",
 "assets/packages/flutter_tex/js/katex/fonts/KaTeX_Typewriter-Regular.woff2": "b8b8393d2e65fcebda5fa99fa3264f41",
 "assets/packages/flutter_tex/js/katex/index.html": "d72365d725f76c51dbcb8931ca70dd68",
-"/": "e2f189765f6ffe3d0ed456f75dc71381",
+"/": "3c963758260e83ce0593bd4f87ee9e95",
 "assets/packages/flutter_tex/js/katex/katex.min.css": "c9f7e21f3011f52c6b9a93b6aeb92edb",
 "assets/packages/flutter_tex/js/katex/katex.min.js": "b1a8a50d76f3bd8d824ac86825b6ae5b",
 "assets/packages/flutter_tex/js/katex/mhchem.min.js": "9b29ccab32b45fb570484fdf14724255",
@@ -244,7 +244,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "8c93f44e5083f01ac26c3e8b90adca3c
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "e2f189765f6ffe3d0ed456f75dc71381",
+"index.html": "3c963758260e83ce0593bd4f87ee9e95",
 "main.dart.js": "1b383aa3c10faa19e8d6cfdf2ca16fbc",
 "manifest.json": "a5cca1f9800773299110099226747924",
 "version.json": "78694ae9dc59d37b9dd2c1cd3e0ea72b"};
