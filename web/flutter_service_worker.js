@@ -94,7 +94,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "8c93f44e5083f01ac26c3e8b90adca3c
 "assets/packages/flutter_tex/js/katex/fonts/KaTeX_Typewriter-Regular.woff": "0e0460587676d22eae09accd6dcfebc6",
 "assets/packages/flutter_tex/js/katex/fonts/KaTeX_Typewriter-Regular.woff2": "b8b8393d2e65fcebda5fa99fa3264f41",
 "assets/packages/flutter_tex/js/katex/index.html": "d72365d725f76c51dbcb8931ca70dd68",
-"/": "1a7fc06957a8ffb9b88007c4cf014689",
+"/": "e6f121784a29cac707795d459d397057",
 "assets/packages/flutter_tex/js/katex/katex.min.css": "c9f7e21f3011f52c6b9a93b6aeb92edb",
 "assets/packages/flutter_tex/js/katex/katex.min.js": "b1a8a50d76f3bd8d824ac86825b6ae5b",
 "assets/packages/flutter_tex/js/katex/mhchem.min.js": "9b29ccab32b45fb570484fdf14724255",
@@ -244,8 +244,8 @@ const RESOURCES = {"assets/AssetManifest.bin": "8c93f44e5083f01ac26c3e8b90adca3c
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "1a7fc06957a8ffb9b88007c4cf014689",
-"main.dart.js": "43ca7f140b0caa132b9b751e9c8c6b35",
+"index.html": "e6f121784a29cac707795d459d397057",
+"main.dart.js": "61c23667a0fbdb61b8063fe41bdacb52",
 "manifest.json": "a5cca1f9800773299110099226747924",
 "version.json": "78694ae9dc59d37b9dd2c1cd3e0ea72b"};
 // The application shell files that are downloaded before a service worker can
